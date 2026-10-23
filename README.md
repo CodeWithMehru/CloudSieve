@@ -102,6 +102,10 @@ python agent_runner.py
 streamlit run app.py
 ```
 
+## Demo Notebook
+
+- Interactive notebook: [notebooks/cloudsieve_demo.ipynb](notebooks/cloudsieve_demo.ipynb)
+
 ## Benchmark Results
 
 The included benchmark exercises three realistic outage scenarios:
